@@ -10,10 +10,9 @@
   - [x] Header
   - [X] Background Carrossel Ultimo Filmes Lançados
   - [X] Form de busca
-  - [] Lista de Filmes
+  - [X] Lista de Filmes
   - [X] Paginação
 - Paginas
-  - [] Home
-  - [] Detalhes do Filme
-- [] Navegação entre páginas
-- Testes
+  - [X] Home
+  - [X] Detalhes do Filme
+- [X] Navegação entre páginas
